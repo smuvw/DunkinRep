@@ -11,7 +11,7 @@ public class Login {
 		String a=driver.getTitle();
  System.out.println(a);
 		 System.out.println("welcome");
-		
+		 System.out.println("welcome");
 	}
 
 }
