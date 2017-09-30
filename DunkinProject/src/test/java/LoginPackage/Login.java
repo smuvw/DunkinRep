@@ -8,8 +8,8 @@ public class Login {
 		
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
-		
-
+		String a=driver.getTitle();
+ System.out.println(a);
 	}
 
 }
