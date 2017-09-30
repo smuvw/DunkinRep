@@ -10,6 +10,8 @@ public class Login {
 		driver.get("https://www.facebook.com/");
 		String a=driver.getTitle();
  System.out.println(a);
+		 System.out.println("welcome");
+		
 	}
 
 }
